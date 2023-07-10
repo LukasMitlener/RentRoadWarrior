@@ -1,0 +1,132 @@
+[
+  {
+      "name": "Skull Brawler",
+      "imagePath": "/images/skull_brawler.png",
+      "kills": 45,
+      "speed": 150,
+      "armorLevel": 4,
+      "fuelCapacity": 80,
+      "carRent": 40,
+      "weaponry": "Spiked Bumper and Side Flamethrowers"
+  },
+  {
+      "name": "Rusted Reaper",
+      "imagePath": "/images/rusted_reaper.png",
+      "kills": 60,
+      "speed": 130,
+      "armorLevel": 5,
+      "fuelCapacity": 90,
+      "carRent": 40,
+      "weaponry": "Front Mounted Harpoon and Rear Grenade Launcher"
+  },
+  {
+      "name": "Dust Devil",
+      "imagePath": "/images/dust_devil.png",
+      "kills": 80,
+      "speed": 170,
+      "armorLevel": 3,
+      "fuelCapacity": 60,
+      "carRent": 40,
+      "weaponry": "Side-mounted Chainsaws and Roof-mounted Machine Gun"
+  },
+  {
+      "name": "Rust Phantom",
+      "imagePath": "/images/rust_phantom.png",
+      "kills": 30,
+      "speed": 200,
+      "armorLevel": 2,
+      "fuelCapacity": 100,
+      "carRent": 40,
+      "weaponry": "Front Mounted Dozer Blade and Side Flamethrowers"
+  },
+  {
+      "name": "Scorched Scavenger",
+      "imagePath": "/images/scorched_scavenger.png",
+      "kills": 100,
+      "speed": 140,
+      "armorLevel": 4,
+      "fuelCapacity": 70,
+      "carRent": 40,
+      "weaponry": "Rear Oil Slick Dispenser and Frontal Machine Gun"
+  },
+  {
+      "name": "Fallout Fury",
+      "imagePath": "/images/fallout_fury.png",
+      "kills": 90,
+      "speed": 150,
+      "armorLevel": 5,
+      "fuelCapacity": 80,
+      "carRent": 40,
+      "weaponry": "Rooftop Rocket Launcher and Bumper Spikes"
+  },
+  {
+      "name": "Ashen Assassin",
+      "imagePath": "/images/ashen_assassin.png",
+      "kills": 75,
+      "speed": 160,
+      "armorLevel": 4,
+      "fuelCapacity": 75,
+      "carRent": 40,
+      "weaponry": "Dual Side Flamethrowers and Rear Mounted Harpoon"
+  },
+  {
+      "name": "Barrage Beast",
+      "imagePath": "/images/barrage_beast.png",
+      "kills": 85,
+      "speed": 120,
+      "armorLevel": 5,
+      "fuelCapacity": 85,
+      "carRent": 40,
+      "weaponry": "Front Mounted Cannon and Rear Oil Slick Dispenser"
+  },
+  {
+      "name": "Ember Enforcer",
+      "imagePath": "/images/ember_enforcer.png",
+      "kills": 70,
+      "speed": 130,
+      "armorLevel": 3,
+      "fuelCapacity": 65,
+      "carRent": 40,
+      "weaponry": "Roof-mounted Machine Gun and Frontal Dozer Blade"
+  },
+  {
+    "name": "Brick Racer",
+    "imagePath": "/images/brick-racer.png",
+    "kills": 2,
+    "speed": 10,
+    "armorLevel": 1,
+    "fuelCapacity": 13,
+    "carRent": 40,
+    "weaponry": "Lego Launcher"
+  },
+  {
+    "name": "Wooly Knitster",
+    "imagePath": "/images/wooly-knitster.png",
+    "kills": 0,
+    "speed": 60,
+    "armorLevel": 1,
+    "fuelCapacity": 15,
+    "carRent": 10,
+    "weaponry": "Wool Whip and Fluffy Fog"
+  },
+  {
+    "name": "Tiny Terror",
+    "imagePath": "/images/tiny-terror.png",
+    "kills": 0,
+    "speed": 30,
+    "armorLevel": 1,
+    "fuelCapacity": 15,
+    "carRent": 10,
+    "weaponry": "Rubber Band Rumble"
+  },
+  {
+    "name": "Transparent Titan",
+    "imagePath": "/images/transparent-titan.png",
+    "kills": 1,
+    "speed": 120,
+    "armorLevel": 3,
+    "fuelCapacity": 15,
+    "carRent": 50,
+    "weaponry": "LED Lazer and Diode Decoy"
+  }
+]
