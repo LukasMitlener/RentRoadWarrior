@@ -1,6 +1,7 @@
 import { MouseEventHandler } from "react";
 
 export interface CarProps {
+  id: number,
   name: string;
   imagePath: string;
   kills: number;
@@ -8,7 +9,6 @@ export interface CarProps {
   armorLevel: number;
   fuelCapacity: number;
   carRent: number;
-  transmission: string;
   weaponry: string;
 }
 

@@ -14,7 +14,7 @@ module.exports = {
       colors: {
         "black-100": "#2B2C35",
         "primary-blue": {
-          DEFAULT: "#2B59FF",
+          DEFAULT: "#747474",
           100: "#F5F8FF",
         },
         "secondary-orange": "#f79761",
@@ -32,3 +32,7 @@ module.exports = {
   },
   plugins: [],
 };
+
+// pozadí  hluboká šedá (#2B2B2B) nebo téměř černá (#181818)
+// primární barva Olověná šedá (#747474) nebo rezivá červená (#b7410e) mohou být dobré možnosti.
+// Akční komponenty (tlačítka apod.): jasná oranžová (#ff5500) nebo zářivě žlutá (#ffd700) by mohly být vhodné.

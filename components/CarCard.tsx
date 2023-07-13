@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 import Image from "next/image";
 
@@ -22,9 +24,6 @@ const CarCard = ({ car }: CarCardProps) => {
         </h2>
         <p>Kills: {kills}</p>
         <p>Speed: {speed} km/h</p>
-        <p>Horsepower: {armorLevel}</p>
-        <p>Torque: {fuelCapacity} Nm</p>
-        <p>Weaponry: {weaponry} Nm</p>
       </div>
 
       <p className='flex mt-6 text-[32px] leading-[38px] font-extrabold'>

@@ -16,12 +16,11 @@ const Hero = () => {
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
         <h1 className="hero__title">
-          Find, book, rent a car—quick and super easy!
+          Rule the wastelands! Rent a Mad Max car!
         </h1>
 
         <p className="hero__subtitle">
-          Streamline your car rental experience with our effortless booking
-          process.
+         Live out your wildest desert warrior fantasies by renting one of the rugged, menacing, and battle-ready vehicles straight from the Mad Max universe
         </p>
         <CustomButton
           title="Explore Cars"
@@ -32,7 +31,7 @@ const Hero = () => {
       </div>
       <div className="hero__image-container">
         <div className="hero__image">
-          <Image src="images/max1.png" alt="hero" fill className="object-contain" />
+          <Image src="/images/max1.png" alt="hero" fill className="object-contain" />
         </div>
 
         <div className="hero__image-overlay" />
