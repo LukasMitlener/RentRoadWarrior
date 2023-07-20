@@ -12,7 +12,7 @@ interface CarCardProps {
 }
 
 const CarCard = ({ car }: CarCardProps) => {
-  const { name, imagePath, kills, speed, armorLevel, fuelCapacity, carRent, weaponry } = car;
+  const { name, imagePath, kills, speed, carRent } = car;
 
   const [isOpen, setIsOpen] = useState(false);
 

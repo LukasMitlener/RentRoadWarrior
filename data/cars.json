@@ -7,62 +7,62 @@
       "speed": 150,
       "armorLevel": 4,
       "fuelCapacity": 80,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Spiked Bumper and Side Flamethrowers"
   },
   {
       "id": 2,
       "name": "Rusted Reaper",
       "imagePath": "/images/rusted_reaper.png",
-      "kills": 60,
+      "kills": 62,
       "speed": 130,
       "armorLevel": 5,
       "fuelCapacity": 90,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Front Mounted Harpoon and Rear Grenade Launcher"
   },
   {
       "id": 3,
       "name": "Dust Devil",
       "imagePath": "/images/dust_devil.png",
-      "kills": 80,
-      "speed": 170,
+      "kills": 3254,
+      "speed": 210,
       "armorLevel": 3,
       "fuelCapacity": 60,
-      "carRent": 40,
+      "carRent": 666,
       "weaponry": "Side-mounted Chainsaws and Roof-mounted Machine Gun"
   },
   {
       "id": 4,
       "name": "Rust Phantom",
       "imagePath": "/images/rust_phantom.png",
-      "kills": 30,
+      "kills": 31,
       "speed": 200,
       "armorLevel": 2,
       "fuelCapacity": 100,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Front Mounted Dozer Blade and Side Flamethrowers"
   },
   {
       "id": 5,
       "name": "Scorched Scavenger",
       "imagePath": "/images/scorched_scavenger.png",
-      "kills": 100,
+      "kills": 113,
       "speed": 140,
       "armorLevel": 4,
       "fuelCapacity": 70,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Rear Oil Slick Dispenser and Frontal Machine Gun"
   },
   {
       "id": 6,
       "name": "Fallout Fury",
       "imagePath": "/images/fallout_fury.png",
-      "kills": 90,
+      "kills": 94,
       "speed": 150,
       "armorLevel": 5,
       "fuelCapacity": 80,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Rooftop Rocket Launcher and Bumper Spikes"
   },
   {
@@ -73,7 +73,7 @@
       "speed": 160,
       "armorLevel": 4,
       "fuelCapacity": 75,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Dual Side Flamethrowers and Rear Mounted Harpoon"
   },
   {
@@ -84,7 +84,7 @@
       "speed": 120,
       "armorLevel": 5,
       "fuelCapacity": 85,
-      "carRent": 40,
+      "carRent": 399,
       "weaponry": "Front Mounted Cannon and Rear Oil Slick Dispenser"
   },
   {
@@ -95,18 +95,18 @@
     "speed": 10,
     "armorLevel": 1,
     "fuelCapacity": 13,
-    "carRent": 40,
+    "carRent": 399,
     "weaponry": "Lego Launcher"
   },
   {
     "id": 11,
     "name": "Wooly Knitster",
     "imagePath": "/images/wooly-knitster.png",
-    "kills": 0,
-    "speed": 60,
-    "armorLevel": 1,
+    "kills": 1,
+    "speed": 25,
+    "armorLevel": 0,
     "fuelCapacity": 15,
-    "carRent": 10,
+    "carRent": 199,
     "weaponry": "Wool Whip and Fluffy Fog"
   },
   {
@@ -117,7 +117,7 @@
     "speed": 30,
     "armorLevel": 1,
     "fuelCapacity": 15,
-    "carRent": 10,
+    "carRent": 99,
     "weaponry": "Rubber Band Rumble"
   },
   {
@@ -128,7 +128,7 @@
     "speed": 120,
     "armorLevel": 3,
     "fuelCapacity": 15,
-    "carRent": 50,
+    "carRent": 999,
     "weaponry": "LED Lazer and Diode Decoy"
   }
 ]

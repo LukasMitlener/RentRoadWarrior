@@ -16,11 +16,11 @@ const Hero = () => {
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
         <h1 className="hero__title">
-          Rule the wastelands! Rent a Mad Max car!
+          Rule the wastelands! Rent a Road Warrior car!
         </h1>
 
         <p className="hero__subtitle">
-         Live out your wildest desert warrior fantasies by renting one of the rugged, menacing, and battle-ready vehicles straight from the Mad Max universe
+         Live out your wildest desert warrior fantasies by renting one of the rugged, menacing, and battle-ready vehicles
         </p>
         <CustomButton
           title="Explore Cars"
