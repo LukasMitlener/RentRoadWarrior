@@ -53,7 +53,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => (
                 </button>
 
                 <div className='flex-1 flex flex-col gap-3'>
-                  <div className='relative w-full h-40 bg-pattern bg-cover bg-center rounded-lg'>
+                  <div className='relative w-full h-80 bg-pattern bg-cover bg-center rounded-lg'>
                     <Image src={car.imagePath} alt='car model' layout="fill" priority className='object-contain' />
                   </div>
 
