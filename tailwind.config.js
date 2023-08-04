@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -13,8 +14,8 @@ module.exports = {
       },
       colors: {
         "black-100": "#2B2C35",
-        "primary-blue": {
-          DEFAULT: "#747474",
+        "primary-orange": {
+          DEFAULT: "#FC8A00",
           100: "#F5F8FF",
         },
         "secondary-orange": "#f79761",
@@ -24,10 +25,6 @@ module.exports = {
         },
         grey: "#747A88",
       },
-      backgroundImage: {
-        'pattern': "url('/pattern.png')",
-        'hero-bg': "url('/hero-bg.png')"
-      }
     },
   },
   plugins: [],
