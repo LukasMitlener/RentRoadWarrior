@@ -10,7 +10,20 @@ interface CarDetailsProps {
   car: CarProps;
 }
 
+const carBackground = (name) => {
+  if (name == "Tiny Terror" || name == "Brick Racer") {
+    return "bg-pattern-rug";
+  } else if (name == "Transparent Titan") {
+    return "bg-pattern-psy";
+  } else if (name == "Wooly Knitster") {
+    return "bg-pattern-knitt";
+  } else {
+    return "bg-pattern-desert";
+  }
+};
+
 const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => (
+  
   <>
     <Transition appear show={isOpen} as={Fragment}>
       <Dialog as='div' className='relative z-10' onClose={closeModal}>
@@ -53,7 +66,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => (
                 </button>
 
                 <div className='flex-1 flex flex-col gap-3'>
-                  <div className='relative w-full h-80 bg-pattern bg-cover bg-center rounded-lg'>
+                  <div className={`relative w-full h-80 ${carBackground(car.name)} bg-cover bg-center rounded-lg`}>
                     <Image src={car.imagePath} alt='car model' layout="fill" priority className='object-contain' />
                   </div>
 
