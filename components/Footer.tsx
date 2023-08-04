@@ -6,10 +6,7 @@ import { footerLinks } from "@constants";
 const Footer = () => (
   <footer className='flex flex-col text-black-100  mt-5 border-t border-gray-100'>
     <div className='flex max-md:flex-col flex-wrap justify-between gap-5 sm:px-16 px-6 py-10'>
-      <div className='flex flex-row justify-start items-start gap-6'>
-        <Image src='/images/logo.png' alt='logo' width={118} height={18} className='object-contain' />
-        <h1 className="2xl:text-[36px] sm:text-[32px] text-[25px] font-extrabold">Rent<span className="text-primary-blue">Road</span>Warrior</h1>
-      </div>
+
 
       <div className="footer__links">
         {footerLinks.map((item) => (

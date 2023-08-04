@@ -10,23 +10,18 @@ const Navbar = () => (
         <Image
           src='/images/logo.png'
           alt='logo'
-          width={118}
+          width={96}
           height={18}
           className='object-contain'
         />
-        <h1 className="2xl:text-[36px] sm:text-[32px] text-[25px] font-extrabold">Rent<span className="text-primary-blue">Road</span>Warrior</h1>
+        <h1 className="ml-3 2xl:text-[48px] sm:text-[32px] text-[25px] font-black">Rent<span className="text-primary-orange">Road</span>Warrior</h1>
       </Link>
 
       <CustomButton
-        title='Buy me coffee'
+        title='Rent car'
         btnType='button'
-        containerStyles='text-primary-blue rounded-full bg-white min-w-[130px]'
+        containerStyles='text-white rounded-full bg-primary-orange min-w-[130px]'
       />
-      <CustomButton
-      title='Buy cool poster'
-      btnType='button'
-      containerStyles='text-primary-blue rounded-full bg-white min-w-[130px]'
-    />
     </nav>
   </header>
 );
