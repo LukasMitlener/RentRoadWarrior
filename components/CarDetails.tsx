@@ -10,7 +10,7 @@ interface CarDetailsProps {
   car: CarProps;
 }
 
-const carBackground = (name) => {
+const carBackground = (name: string) => {
   if (name == "Tiny Terror" || name == "Brick Racer") {
     return "bg-pattern-rug";
   } else if (name == "Transparent Titan") {
